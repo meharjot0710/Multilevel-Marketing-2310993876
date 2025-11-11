@@ -1,0 +1,19 @@
+{
+  "name": "mlm-binary-tree",
+  "version": "1.0.0",
+  "description": "Multilevel Marketing System with Binary Tree Structure",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["mlm", "binary-tree", "network-marketing"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcrypt": "^5.1.1",
+    "express-session": "^1.17.3",
+    "ejs": "^3.1.9"
+  }
+}
